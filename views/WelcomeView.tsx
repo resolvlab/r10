@@ -23,7 +23,7 @@ const WelcomeView: React.FC<WelcomeViewProps> = ({ onStart }) => {
           </div>
           
           <div>
-            <h1 className="text-3xl font-bold text-slate-800">Kartu Bahasa</h1>
+            <h1 className="text-3xl font-bold text-slate-800">Kata Bahasa</h1>
             <p className="text-slate-500 mt-2">
               Game singkat untuk bantu kamu hafal der/die/das.
             </p>

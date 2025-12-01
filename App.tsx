@@ -96,7 +96,7 @@ const App: React.FC = () => {
 
       {/* Static Footer Line */}
       <footer className="text-center py-6 px-4 text-[10px] text-slate-400 pb-6">
-        <p>Kartu Bahasa — dibuat untuk pembelajar bahasa Jerman asal Indonesia.</p>
+        <p>Kata Bahasa — dibuat untuk pembelajar bahasa Jerman asal Indonesia.</p>
       </footer>
     </div>
   );

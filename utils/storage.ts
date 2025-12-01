@@ -1,8 +1,8 @@
 import { NounProgress, UserStats, AppSettings } from '../types';
 
-const PROGRESS_KEY = 'kartubahasa_noun_progress';
-const STATS_KEY = 'kartubahasa_user_stats';
-const SETTINGS_KEY = 'kartubahasa_settings';
+const PROGRESS_KEY = 'katabahasa_noun_progress';
+const STATS_KEY = 'katabahasa_user_stats';
+const SETTINGS_KEY = 'katabahasa_settings';
 
 // Default initial stats
 const INITIAL_STATS: UserStats = {
